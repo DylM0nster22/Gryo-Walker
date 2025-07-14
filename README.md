@@ -32,3 +32,18 @@ The weapons are attached by pressing them onto the motor can and putting a nut o
 At this point, the battery can be inserted into the robot, and the bottom plate can be screwed on with four M3 plastites. 
 
 Your robot is now ready for combat!
+
+## Bill of Materials
+
+|Name                  |Quantity|Price |Link                                      |
+|----------------------|--------|------|------------------------------------------|
+|3S 300mah LiHV battery|1       |9.99  |https://share.google/nfxOtIxxwKT0yrfrc    |
+|Malenki HV            |1       |46    |https://share.google/stp66j1LGnYxclgG8    |
+|Fingertech Switch     |1       |7.99  |https://share.google/lWe0jieE8vX2Iteq6    |
+|45A Drone ESC         |2       |39.6  |https://a.co/d/7bp3fm2                    |
+|RS2205                |2       |14.62 |https://share.google/J0T66sHt1AGzdSqSs    |
+|M3 x 8mm Screw        |8       |5.99  |https://a.co/d/7sxAajj                    |
+|M3 Plastite           |4       |12.16 |https://www.mcmaster.com/product/96817A323|
+|PLA Filament          |~250g   |5.99  |https://a.co/d/7vjEASh                    |
+|XT30                  |1       |1.99  |https://share.google/1hgPaIf5fwCM2d9de    |
+|Total:                |N/A     |144.33|N/A                                       |
