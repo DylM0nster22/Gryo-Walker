@@ -30,6 +30,8 @@ Next, solder white signal wires onto each of the Malenki's weapon channel signal
 
 Put the Malenki, switch, and ESCs inside the robot and have the motors outside the robot, with the phase wires running through their slots. The three phase wires from each motor can then be soldered onto each ESC's three phase wire pads. 
 
+Make sure to wrap everything in electrical tape to prevent any shorts.
+
 ### Assembly
 
 The first step in assembling the robot is supergluing the switch into a corner. Pay attention to roughly where in the corner the switch hole is located on the top plate. However, it does not matter which corner, as the top plate can be flipped to line up properly. Depending on how the switch lines up, you may need to expand the hole on the top plate. This can be done by twisting flush cutters on the hole.
