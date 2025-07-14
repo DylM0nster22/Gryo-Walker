@@ -1,4 +1,4 @@
-# Torque-Walker
+# Torque Walker
 ![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/465948232-7f8f9d03-4806-4a0e-bb94-5671ee7b1b8f.jpg)
 
 ## Background
@@ -39,6 +39,10 @@ Next, solder white signal wires onto each of the Malenki's weapon channel signal
 Put the Malenki, switch, and ESCs inside the robot and have the motors outside the robot, with the phase wires running through their slots. The three phase wires from each motor can then be soldered onto each ESC's three phase wire pads. 
 
 Make sure to wrap everything in electrical tape to prevent any shorts.
+
+Here is a wiring diagram for assistance:
+
+![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/peak%20wiring%20diagram.png)
 
 ### Assembly
 
