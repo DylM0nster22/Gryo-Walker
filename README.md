@@ -1,6 +1,8 @@
 # Torque Walker
 ![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/465948232-7f8f9d03-4806-4a0e-bb94-5671ee7b1b8f.jpg)
 
+# [DEMO VIDEO](https://photos.app.goo.gl/9bNn2mUH8ifmHqGP9)
+
 ## Background
 
 For our project for Undercity, we made a torque walker combat robot. This style of robot has two diagonally spinning blades, with one on each side of the robot. The blades rotate in opposite directions. By adjusting the speed of each blade, the torque reaction causes the robot to pivot, which can be used to create a walking motion. 
