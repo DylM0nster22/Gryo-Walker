@@ -16,6 +16,12 @@ The blades and frame were all printed from PLA. The robot has two RS2205 motors,
 
 ## Images
 
+![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/PXL_20250714_100501199.jpg)
+
+![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/PXL_20250714_100454253.jpg)
+
+![](https://github.com/DylM0nster22/Gryo-Walker/blob/main/Images/PXL_20250714_100508559.jpg)
+
 ## Build Process
 
 ### Printing
