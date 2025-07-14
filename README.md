@@ -7,6 +7,15 @@ For our project for Undercity, we made a torque walker combat robot. This style 
 
 The blades and frame were all printed from PLA. The robot has two RS2205 motors, one per weapon, which are held on with M3 x 8mm screws. These motors are drived by LanRC 35A ESCs, which are in turn powered by a 300mah Gaoneng LiHV 3S battery. The robot is powered on and off thorugh a fingertech switch, with the switch located in the bottom of the robot. We used a Malenki HV as our receiver, as it is what we had on hand. All of the electronics are held in by the bottom plate, which was held on with 4 M3 plastites. 
 
+## Features
+
+* Two large 5" diameter asymmetric disk weapons
+* Tip speed exceeding 300 mph
+* 3S 300mah High Voltage LiPo
+* Able to be built with only off the shelf parts and 3D prints.
+
+## Images
+
 ## Build Process
 
 ### Printing
