@@ -26,7 +26,7 @@ The blades and frame were all printed from PLA. The robot has two RS2205 motors,
 
 ### Printing
 
-** IT IS VERY IMPORTANT THAT WHEN PRINTING THE WEAPONS, ONE OF THE WEAPONS NEEDS TO BE MIRRORED. **
+**IT IS VERY IMPORTANT THAT WHEN PRINTING THE WEAPONS, ONE OF THE WEAPONS NEEDS TO BE MIRRORED.**
 
 To begin the build process, first print all of the parts out of PLA. The robot is compact enough to be underweight for the plastic antweight class with almost any print settings, but the recommended settings are at least 4 walls 15% infil for the frame and all top layers (solid) for the weapons. This ensures that the robot is capable of holding up to the forces of combat.
 
